@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Real Estate](https://realhomez.org/)
 
-- 🌱 I’m currently learning **Djagno, React, Api, Tailwind Css**
+- 🌱 I’m currently learning **React, Api, Tailwind Css**
 
 - 💬 Ask me about **Laravel, Web Development**
 
